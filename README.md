@@ -1,0 +1,2 @@
+# bootstraptableeditvue
+Created with CodeSandbox
